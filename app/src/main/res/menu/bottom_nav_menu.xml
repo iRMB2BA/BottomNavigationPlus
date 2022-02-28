@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/miHome"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home"
+        android:visible="true"
+        android:enabled="true"/>
+
+    <item android:id="@+id/miSearch"
+        android:title="@string/search"
+        android:icon="@drawable/ic_search"
+        android:visible="true"
+        android:enabled="true"/>
+
+    <item android:id="@+id/miProfile"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_person"
+        android:visible="true"
+        android:enabled="true"/>
+
+    <item android:id="@+id/miSetting"
+        android:title="@string/setting"
+        android:icon="@drawable/ic_setting"
+        android:visible="true"
+        android:enabled="true"/>
+
+</menu>
