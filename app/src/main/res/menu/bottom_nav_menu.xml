@@ -14,6 +14,10 @@
         android:visible="true"
         android:enabled="true"/>
 
+    <item android:id="@+id/placeholder"
+        android:title=""
+        android:enabled="false"/>
+
     <item android:id="@+id/miProfile"
         android:title="@string/profile"
         android:icon="@drawable/ic_person"
